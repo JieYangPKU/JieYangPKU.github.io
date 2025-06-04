@@ -47,7 +47,7 @@ redirect_from:
     <br/><br/>
 </body>
 
-* Name: Jie Yang(杨杰) 
+* Name: Jie Yang
 * Email: [yangjie2021@hsc.pku.edu.cn](yangjie2021@hsc.pku.edu.cn)
 * Personal Website: [jieyangpku.github.io](https://jieyangpku.github.io/)
 
