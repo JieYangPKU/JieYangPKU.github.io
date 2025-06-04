@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year undergraduate student from [School of Basic Medical Sciences](https://sbms.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), currently enrolled in department of Biophysics.
+I'm a fourth year undergraduate student from [School of Basic Medical Sciences](https://sbms.bjmu.edu.cn/), [Peking University](https://www.pku.edu.cn/), currently enrolled in Department of Biophysics.
 
  <!--My research interest includes computer vision, computer graphics, machine learning, and computational photography.-->
 
