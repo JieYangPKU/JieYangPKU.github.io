@@ -47,19 +47,15 @@ redirect_from:
     <br/><br/>
 </body>
 
-* Name: Your Name 
-* Phone and WeChat: 15705694836 / Email: [2200012917@stu.pku.edu.cn](2200012917@stu.pku.edu.cn)
-* Personal Website: [iculizhi.github.io](https://iculizhi.github.io/)
+* Name: Jie Yang(杨杰) 
+* Email: [yangjie2021@hsc.pku.edu.cn](yangjie2021@hsc.pku.edu.cn)
+* Personal Website: [jieyangpku.github.io](https://jieyangpku.github.io/)
 
 Education
 ======
-* Undergraduate: Beijing, Peking University, 2022
-  * Major: Information and Computing Science (Turing Class), School of Electronics Engineering and Computer Science
-  * Double Degree: Economics, National School of Development
+* Undergraduate: Beijing, Peking University, 2021
+  * Major: Basic Medical Sciences , Department of Biophysics
 
-Awards
-======
-* Silver Medal, China Mathematical Olympiad (CMO)
 
 <!--
 Work experience
