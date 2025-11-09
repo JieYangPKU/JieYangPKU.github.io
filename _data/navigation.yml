@@ -18,6 +18,9 @@ main:
   #- title: "Guide"
   #  url: /markdown/
 
+  - title: "CV"
+    url: /cv/
+    
   - title: "Notes"
     url: /Notes/
   
@@ -26,9 +29,6 @@ main:
 
   #- title: "Blogs"
   #  url: /Blogs/
-
-  - title: "CV"
-    url: /cv/
 
   #- title: "Links"
   #  url: /Links/
