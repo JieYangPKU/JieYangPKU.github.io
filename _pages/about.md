@@ -22,5 +22,5 @@ The website is still under construction. Codes and course notes are uploading qu
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=k5Xr3xvDEVs7n4mzszMPPIJhZikL0WBA4dkRV6LCWw0&cl=ffffff&w=a"></script>
 
 <h2>Contact me</h2>
-[Email](mailto:yangjie2021@hsc.pku.edu.cn) / [Github](https://github.com/JieYangPKU) / [Wechat](../images/wechat.png) 
+[Email](mailto:yangjie2021@hsc.pku.edu.cn) / [Github](https://github.com/JieYangPKU) 
 
