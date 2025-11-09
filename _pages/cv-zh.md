@@ -37,13 +37,6 @@ redirect_from:
         }
     </style>
 </head>
-<body>
-    <br/><br/>
-    <div class="container">
-<button class="btn" onclick="window.location.href='/cv'">Switch to English</button>
-    </div>
-    <br/><br/>
-</body>
 
 * 姓名: 杨杰
 * 邮箱 [yangjie2021@hsc.pku.edu.cn](yangjie2021@hsc.pku.edu.cn)
@@ -56,7 +49,13 @@ redirect_from:
 * 本科：北京，北京大学，2021-2026
   * 专业：基础医学
 
-
+<body>
+    <br/><br/>
+    <div class="container">
+<button class="btn" onclick="window.location.href='/cv'">切换为英文</button>
+    </div>
+    <br/><br/>
+</body>
 
 <!--
 Work experience
