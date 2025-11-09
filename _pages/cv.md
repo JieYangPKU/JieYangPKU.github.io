@@ -39,13 +39,6 @@ redirect_from:
         }
     </style>
 </head>
-<body>
-    <br/><br/>
-    <div class="container">
-<button class="btn" onclick="window.location.href='/cv-zh'">Switch to Chinese</button>
-    </div>
-    <br/><br/>
-</body>
 
 * Name: Jie Yang
 * Email: [yangjie2021@hsc.pku.edu.cn](yangjie2021@hsc.pku.edu.cn)
@@ -62,6 +55,13 @@ Notes
 ======
 * Life then is a vortex,more or less rapid,more or less complicated,the direction of which is invariable,and which always carries along molecules of similar kinds,but into which individual molecules are continually entering,and from which they are continually departing;so that the form of a living body is more essential to it than its matter.(**The Animal Kingdom** by _Georges Cuvier_)
 
+<body>
+    <br/><br/>
+    <div class="container">
+<button class="btn" onclick="window.location.href='/cv-zh'">Switch to Chinese</button>
+    </div>
+    <br/><br/>
+</body>
  
 <!--
 Work experience
