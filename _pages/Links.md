@@ -61,7 +61,7 @@ author_profile: true
   <li><a href="../files/北京大学2025春季课表.xlsx">北京大学2025年春季课表(可搜索)</a></li>
 </ul>
 
-<!-- <h2>友链</h2>
+<h2>友链</h2>
 
 <br/><br/>
 <div class="friend-links-container">
@@ -74,10 +74,7 @@ author_profile: true
       </a>
     </div>
   </div>
-<br/><br/><br/> -->
-
-
-
+<br/><br/><br/>
 
 <br/>
 
