@@ -16,7 +16,7 @@ My research interest includes cardiovascular diseases, lipidomics, and mass spec
 
 <!--You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).-->
 
-The website is still under construction. Codes and course notes are uploading quickly.
+The website is still under construction. 
 
 <h2>Pageviews</h2>
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=k5Xr3xvDEVs7n4mzszMPPIJhZikL0WBA4dkRV6LCWw0&cl=ffffff&w=a"></script>
