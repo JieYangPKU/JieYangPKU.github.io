@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a fifth year undergraduate student from [School of Basic Medical Sciences](https://sbms.bjmu.edu.cn/), [Peking University](https://www.pku.edu.cn/), currently enrolled in Department of Biophysics.
 
- <!--My research interest includes computer vision, computer graphics, machine learning, and computational photography.-->
+My research interest includes cardiovascular diseases, lipidomics, and mass spectrometry.
 
 <!--I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.-->
 
