@@ -49,7 +49,7 @@ redirect_from:
 * 邮箱 [yangjie2021@hsc.pku.edu.cn](yangjie2021@hsc.pku.edu.cn)
 * 个人主页：[jieyangpku.github.io](https://jieyangpku.github.io/)
 
-学历
+教育经历
 ======
 * 博士研究生：北京，北京大学，2026-
   * 专业：基础医学，生物物理学系
