@@ -53,8 +53,10 @@ redirect_from:
 
 Education
 ======
-* Undergraduate: Beijing, Peking University, 2021
+* PhD student: Beijing, Peking University, 2026-
   * Major: Basic Medical Sciences , Department of Biophysics
+* Undergraduate: Beijing, Peking University, 2021-2026
+  * Major: Basic Medical Sciences
 
 Notes
 ======
