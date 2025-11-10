@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JieYang's site"
+title                    : "JieYang's Site"
 title_separator          : "-"
 name                     : &name " Jie Yang "
 description              : &description "PhD student"
