@@ -53,7 +53,7 @@ Education
 
 Publications
 ======
-* Yang J, Xiao H, Zhang Z, Zhang L, Zhang X. Regulatory roles of bioactive lipids in vascular homeostasis and remodeling. Medical Review. . (https://doi.org/10.1515/mr-2025-0073)
+* **Yang J**, Xiao H, Zhang Z, Zhang L, Zhang X. Regulatory roles of bioactive lipids in vascular homeostasis and remodeling. Medical Review. . https://doi.org/10.1515/mr-2025-0073
   
 <body>
     <br/><br/>
