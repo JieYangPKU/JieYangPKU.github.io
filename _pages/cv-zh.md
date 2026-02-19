@@ -49,6 +49,9 @@ redirect_from:
 * 本科：北京，北京大学，2021-2026
   * 专业：基础医学
 
+论文
+======
+
 <body>
     <br/><br/>
     <div class="container">
